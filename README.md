@@ -1,12 +1,15 @@
 ## seja-bem vindo!.
 
-Mussum Ipsum, cacilds vidis litro abertis. Admodum accumsan disputationi eu sit. Vide electram sadipscing et per. Viva Forevis aptent taciti sociosqu ad litora torquent. Manduma pindureta quium dia nois paga. Per aumento de cachacis, eu reclamis.
-
 - 🌱 Estudando javascript | front-end | back-end | vuejs
    <div>
   <a href="https://github.com/samuelbra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelbra&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbra&layout=compact&langs_count=16&theme=dark"/>  
+     
+     
+     
+     
+     
      
     <div style="display: inline_block"><br>
     <img align="center" alt="samuel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
