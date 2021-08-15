@@ -1,4 +1,4 @@
-## "Quando os ventos de mudança sopram, umas pessoas levantam barreiras, outras constroem moinhos de vento".
+## .
 
 
 - 🌱 Estudando javascript | front-end | back-end | vuejs
