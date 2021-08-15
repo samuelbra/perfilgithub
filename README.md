@@ -1,6 +1,13 @@
 ## seja-bem vindo!.
 
 
+
+
+
+
+
+
+
 - 🌱 Estudando javascript | front-end | back-end | vuejs
    <div>
   <a href="https://github.com/samuelbra">
