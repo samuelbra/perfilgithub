@@ -12,7 +12,6 @@
 
 - 🎯&nbsp; Desde então, tenho dedicado meu tempo e energia para fortalecer meus conhecimentos nessa área fascinante. A cada linha de código escrita, a cada problema resolvido, sinto-me mais confiante e preparado para enfrentar os desafios que surgem no caminho.
 
-- 💚 &nbsp; Conforme avanço nessa jornada, descubro cada vez mais minha verdadeira paixão: compartilhar o conhecimento que adquiro e ajudar outras pessoas a trilharem seu próprio caminho na programação. Acredito firmemente no poder da educação e da colaboração para transformar vidas, e encontro grande satisfação em contribuir para o crescimento e o desenvolvimento da comunidade de programadores.
 - 🎼 &nbsp; Fora do mundo da programação, minha paixão pela música ocupa um lugar especial em meu coração. Não há nada que me deixe mais feliz do que reunir-me com amigos para tocar e criar música juntos. Esses momentos de conexão e expressão artística são verdadeiros tesouros em minha vida, oferecendo um escape bem-vindo das demandas do dia a dia e nutrindo minha alma de maneiras profundas e significativas.
 - 🚀 &nbsp; Assim, minha jornada como programador e músico continua a se desdobrar, guiada pela curiosidade, pela paixão e pelo desejo de fazer a diferença no mundo, tanto no código que escrevo quanto nas notas que toco.
 
