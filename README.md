@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, eu sou o Samuel, estudando para me tornar um programador full stack.</h1>
+<h1>👋 &nbsp;Olá, eu sou o Samuel😊.</h1>
 <p align="left">
 <a href="https://www.instagram.com/samuel_oliveiraa_?igsh=MXdseTc0bDZxazMzNA=="><img src="https://img.shields.io/badge/-@samueloliveira_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/samuel-oliveira-lopes"><img src="https://img.shields.io/badge/-samuel_oliveira-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
