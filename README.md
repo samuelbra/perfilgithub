@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, eu sou o Samuel, um desenvolvedor full stack apaixonado pelo que faz!</h1>
+<h1>👋 &nbsp;Olá, eu sou o Samuel, estudando para me tornar um programador full stack, e sou apaixonado pelo que faz!</h1>
 <p align="left">
 <a href="https://www.instagram.com/samuel_oliveiraa_?igsh=MXdseTc0bDZxazMzNA=="><img src="https://img.shields.io/badge/-@samueloliveira_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/samuel-oliveira-lopes"><img src="https://img.shields.io/badge/-samuel_oliveira-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
@@ -12,8 +12,8 @@
 
 - 🎯&nbsp; Desde então, tenho dedicado meu tempo e energia para fortalecer meus conhecimentos nessa área fascinante. A cada linha de código escrita, a cada problema resolvido, sinto-me mais confiante e preparado para enfrentar os desafios que surgem no caminho.
 
-- 🎼 &nbsp; Fora do mundo da programação, minha paixão pela música ocupa um lugar especial em meu coração. Não há nada que me deixe mais feliz do que reunir-me com amigos para tocar e criar música juntos. Esses momentos de conexão e expressão artística são verdadeiros tesouros em minha vida, oferecendo um escape bem-vindo das demandas do dia a dia e nutrindo minha alma de maneiras profundas e significativas.
-- 🚀 &nbsp; Assim, minha jornada como programador e músico continua a se desdobrar, guiada pela curiosidade, pela paixão e pelo desejo de fazer a diferença no mundo, tanto no código que escrevo quanto nas notas que toco.
+- 🎼 &nbsp; Além da programação, a música é uma paixão que ocupa um espaço muito especial em meu coração. Não há nada que me traga mais alegria do que compartilhar momentos musicais com amigos, criando e tocando juntos. Esses momentos de conexão e expressão artística são verdadeiros tesouros em minha vida, proporcionando um refúgio bem-vindo do cotidiano e alimentando minha alma de maneiras profundas e significativas.
+- 🚀 &nbsp; Minha trajetória como programador e músico segue em frente, impulsionada pela minha curiosidade, paixão e vontade de causar impacto positivo, seja através do código que desenvolvo ou das notas que toco.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
