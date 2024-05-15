@@ -1,28 +1,41 @@
-## seja-bem vindo!.
+<h1>👋 &nbsp;Olá, eu sou o Samuel, um desenvolvedor full stack apaixonado pelo que faz!</h1>
+<p align="left">
+<a href="https://www.instagram.com/samuel_oliveiraa_?igsh=MXdseTc0bDZxazMzNA=="><img src="https://img.shields.io/badge/-@samueloliveira_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/samuel-oliveira-lopes"><img src="https://img.shields.io/badge/-samuel_oliveira-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:samueloliveira3020@gmail.com"><img src="https://img.shields.io/badge/-samueloliveira3020@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-- 🌱 Estudando javascript | front-end | back-end | vuejs
-   <div>
-  <a href="https://github.com/samuelbra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelbra&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbra&layout=compact&langs_count=16&theme=dark"/>  
-     
-          
-    <div style="display: inline_block"><br>
-    <img align="center" alt="samuel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="samuel-vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg">
-    <img align="center" alt="samuel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="samuel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="samuel-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-    <img align="center" alt="samuel-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  </div>
+</p>
 
-    ##
+<h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-  <div> 
-    <a href="https://www.instagram.com/samuel_oliveiraa_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/samuel-oliveira-lopes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-     
-  </div>
-    
-  
+- 👨🏻‍💻 &nbsp; Meu mergulho inicial no vasto mundo da programação aconteceu em 2021, um marco que marcou o início de uma jornada de descoberta e aprendizado contínuo. Foi o momento em que finalmente consegui realizar meu sonho de me matricular em uma escola de programação, abrindo as portas para um universo repleto de possibilidades e desafios emocionantes.
 
+- 🎯&nbsp; Desde então, tenho dedicado meu tempo e energia para fortalecer meus conhecimentos nessa área fascinante. A cada linha de código escrita, a cada problema resolvido, sinto-me mais confiante e preparado para enfrentar os desafios que surgem no caminho.
+
+- 💚 &nbsp; Conforme avanço nessa jornada, descubro cada vez mais minha verdadeira paixão: compartilhar o conhecimento que adquiro e ajudar outras pessoas a trilharem seu próprio caminho na programação. Acredito firmemente no poder da educação e da colaboração para transformar vidas, e encontro grande satisfação em contribuir para o crescimento e o desenvolvimento da comunidade de programadores.
+- 🎼 &nbsp; Fora do mundo da programação, minha paixão pela música ocupa um lugar especial em meu coração. Não há nada que me deixe mais feliz do que reunir-me com amigos para tocar e criar música juntos. Esses momentos de conexão e expressão artística são verdadeiros tesouros em minha vida, oferecendo um escape bem-vindo das demandas do dia a dia e nutrindo minha alma de maneiras profundas e significativas.
+- 🚀 &nbsp; Assim, minha jornada como programador e músico continua a se desdobrar, guiada pela curiosidade, pela paixão e pelo desejo de fazer a diferença no mundo, tanto no código que escrevo quanto nas notas que toco.
+
+<h2> 🛠 &nbsp;Tech Stack</h2>
+<h3>💻 &nbsp;Front-end:</h3>
+
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+
+<h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
+
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+
+<h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
+
+![Samuel Oliveira GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuelOli&show_icons=true&theme=dracula)
